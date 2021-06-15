@@ -1,2 +1,2 @@
 # MineRunnerAI
-A Minecraft AI written in node to speed run minecraft.
+A Minecraft AI written in node to speedrun minecraft.
